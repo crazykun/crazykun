@@ -1,13 +1,27 @@
 ### Hi there 👋
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=crazykun&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+```php
+const Crazykun = {
+  🌱 pronouns: ["he", "him"],
+  👯 code: [
+    "PHP",
+    "MySQL",
+    "swoole",
+    "golang",
+    "Javascript",
+    "Python"
+  ],
+  🤔 tools: [
+    "Thinkphp",
+    "Vue",
+  ],
+  🔭 challenge: "Keeping working."
+}
+```
 
 
 <!--
-**crazykun/crazykun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
