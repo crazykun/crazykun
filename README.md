@@ -15,6 +15,8 @@ const Crazykun = {
   🤔 tools: [
     "Thinkphp",
     "Vue",
+    "Yii",
+    "gin"
   ],
   🔭 challenge: "Keeping working."
 }
