@@ -10,7 +10,7 @@ const Crazykun = {
     "swoole",
     "golang",
     "Javascript",
-    "Rust"
+    "Rust",
     "Python"
   ],
   🤔 tools: [
